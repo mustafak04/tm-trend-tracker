@@ -1,7 +1,642 @@
 {
   "version": 1,
-  "updatedAt": 1795698062019,
+  "updatedAt": 1795701664144,
   "snapshots": [
+    {
+      "ts": 1795701664144,
+      "source": "cloud",
+      "players": [
+        {
+          "tmId": "1291698",
+          "name": "Facundo Herrera",
+          "normName": "facundo herrera",
+          "marketValue": "€5.00M",
+          "relativeUrl": "/facundo-herrera/profil/spieler/1291698",
+          "ranks": {
+            "co.uk": 1,
+            "com": 1
+          }
+        },
+        {
+          "tmId": "1125720",
+          "name": "Yudong Wang",
+          "normName": "yudong wang",
+          "marketValue": "€1.80M",
+          "relativeUrl": "/yudong-wang/profil/spieler/1125720",
+          "ranks": {
+            "co.uk": 2,
+            "com": 2
+          }
+        },
+        {
+          "tmId": "8198",
+          "name": "Cristiano  Ronaldo",
+          "normName": "cristiano ronaldo",
+          "marketValue": "€10.00M",
+          "relativeUrl": "/cristiano-ronaldo/profil/spieler/8198",
+          "ranks": {
+            "co.uk": 3,
+            "com": 3,
+            "fr": 2
+          }
+        },
+        {
+          "tmId": "349066",
+          "name": "Alexander Isak",
+          "normName": "alexander isak",
+          "marketValue": "€90.00M",
+          "relativeUrl": "/alexander-isak/profil/spieler/349066",
+          "ranks": {
+            "co.uk": 4,
+            "com": 4
+          }
+        },
+        {
+          "tmId": "833719",
+          "name": "Jaylen Rodwell",
+          "normName": "jaylen rodwell",
+          "marketValue": "€125.00K",
+          "relativeUrl": "/jaylen-rodwell/profil/spieler/833719",
+          "ranks": {
+            "co.uk": 5,
+            "com": 5
+          }
+        },
+        {
+          "tmId": "598577",
+          "name": "Florian Wirtz",
+          "normName": "florian wirtz",
+          "marketValue": "€85.00M",
+          "relativeUrl": "/florian-wirtz/profil/spieler/598577",
+          "ranks": {
+            "co.uk": 6,
+            "com": 6,
+            "de": 2
+          }
+        },
+        {
+          "tmId": "28003",
+          "name": "Lionel Messi",
+          "normName": "lionel messi",
+          "marketValue": "€15.00M",
+          "relativeUrl": "/lionel-messi/profil/spieler/28003",
+          "ranks": {
+            "co.uk": 7,
+            "com": 7,
+            "es": 1
+          }
+        },
+        {
+          "tmId": "948294",
+          "name": "Nico Paz",
+          "normName": "nico paz",
+          "marketValue": "€80.00M",
+          "relativeUrl": "/nico-paz/profil/spieler/948294",
+          "ranks": {
+            "co.uk": 8,
+            "com": 8,
+            "us": 8
+          }
+        },
+        {
+          "tmId": "580195",
+          "name": "Jamal Musiala",
+          "normName": "jamal musiala",
+          "marketValue": "€80.00M",
+          "relativeUrl": "/jamal-musiala/profil/spieler/580195",
+          "ranks": {
+            "co.uk": 9,
+            "com": 9,
+            "de": 6,
+            "fr": 10
+          }
+        },
+        {
+          "tmId": "937958",
+          "name": "Lamine Yamal",
+          "normName": "lamine yamal",
+          "marketValue": "€220.00M",
+          "relativeUrl": "/lamine-yamal/profil/spieler/937958",
+          "ranks": {
+            "co.uk": 10,
+            "com": 10
+          }
+        },
+        {
+          "tmId": "914562",
+          "name": "Désiré Doué",
+          "normName": "desire doue",
+          "marketValue": "€120.00M",
+          "relativeUrl": "/desire-doue/profil/spieler/914562",
+          "ranks": {
+            "us": 1
+          }
+        },
+        {
+          "tmId": "306330",
+          "name": "Yassine Meriah",
+          "normName": "yassine meriah",
+          "marketValue": "€0.00",
+          "relativeUrl": "/yassine-meriah/profil/spieler/306330",
+          "ranks": {
+            "us": 2
+          }
+        },
+        {
+          "tmId": "1355014",
+          "name": "Francisco Wang",
+          "normName": "francisco wang",
+          "marketValue": null,
+          "relativeUrl": "/francisco-wang/profil/spieler/1355014",
+          "ranks": {
+            "us": 3
+          }
+        },
+        {
+          "tmId": "1078163",
+          "name": "Ayden Heaven",
+          "normName": "ayden heaven",
+          "marketValue": "€30.00M",
+          "relativeUrl": "/ayden-heaven/profil/spieler/1078163",
+          "ranks": {
+            "us": 4
+          }
+        },
+        {
+          "tmId": "719635",
+          "name": "Alexandro Bernabei",
+          "normName": "alexandro bernabei",
+          "marketValue": "€8.00M",
+          "relativeUrl": "/alexandro-bernabei/profil/spieler/719635",
+          "ranks": {
+            "us": 5
+          }
+        },
+        {
+          "tmId": "412899",
+          "name": "Renny Boboy",
+          "normName": "renny boboy",
+          "marketValue": "€600.00K",
+          "relativeUrl": "/renny-boboy/profil/spieler/412899",
+          "ranks": {
+            "us": 6
+          }
+        },
+        {
+          "tmId": "829380",
+          "name": "Ousmane N'Dong",
+          "normName": "ousmane n dong",
+          "marketValue": "€1.20M",
+          "relativeUrl": "/ousmane-n-dong/profil/spieler/829380",
+          "ranks": {
+            "us": 7
+          }
+        },
+        {
+          "tmId": "702869",
+          "name": "Ismael Saibari",
+          "normName": "ismael saibari",
+          "marketValue": "€55.00M",
+          "relativeUrl": "/ismael-saibari/profil/spieler/702869",
+          "ranks": {
+            "us": 9
+          }
+        },
+        {
+          "tmId": "5486",
+          "name": "Seydou Keita",
+          "normName": "seydou keita",
+          "marketValue": "€0.00",
+          "relativeUrl": "/seydou-keita/profil/spieler/5486",
+          "ranks": {
+            "us": 10
+          }
+        },
+        {
+          "tmId": "1045852",
+          "name": "Louey Ben Farhat",
+          "normName": "louey ben farhat",
+          "marketValue": "€10.00M",
+          "relativeUrl": "/louey-ben-farhat/profil/spieler/1045852",
+          "ranks": {
+            "de": 1
+          }
+        },
+        {
+          "tmId": "178459",
+          "name": "Davie Selke",
+          "normName": "davie selke",
+          "marketValue": "€1.50M",
+          "relativeUrl": "/davie-selke/profil/spieler/178459",
+          "ranks": {
+            "de": 3
+          }
+        },
+        {
+          "tmId": "381469",
+          "name": "Steven Benda",
+          "normName": "steven benda",
+          "marketValue": "€1.00M",
+          "relativeUrl": "/steven-benda/profil/spieler/381469",
+          "ranks": {
+            "de": 4
+          }
+        },
+        {
+          "tmId": "378710",
+          "name": "Richarlison",
+          "normName": "richarlison",
+          "marketValue": "€15.00M",
+          "relativeUrl": "/richarlison/profil/spieler/378710",
+          "ranks": {
+            "de": 5
+          }
+        },
+        {
+          "tmId": "524285",
+          "name": "Luca Netz",
+          "normName": "luca netz",
+          "marketValue": "€8.00M",
+          "relativeUrl": "/luca-netz/profil/spieler/524285",
+          "ranks": {
+            "de": 7
+          }
+        },
+        {
+          "tmId": "1075577",
+          "name": "Joane Gadou",
+          "normName": "joane gadou",
+          "marketValue": "€28.00M",
+          "relativeUrl": "/joane-gadou/profil/spieler/1075577",
+          "ranks": {
+            "de": 8
+          }
+        },
+        {
+          "tmId": "161056",
+          "name": "Joshua Kimmich",
+          "normName": "joshua kimmich",
+          "marketValue": "€35.00M",
+          "relativeUrl": "/joshua-kimmich/profil/spieler/161056",
+          "ranks": {
+            "de": 9
+          }
+        },
+        {
+          "tmId": "126414",
+          "name": "Hakan Çalhanoğlu",
+          "normName": "hakan calhanoglu",
+          "marketValue": "€16.00M",
+          "relativeUrl": "/hakan-calhanoglu/profil/spieler/126414",
+          "ranks": {
+            "de": 10
+          }
+        },
+        {
+          "tmId": "1154932",
+          "name": "Àlex Campos",
+          "normName": "alex campos",
+          "marketValue": "€500.00K",
+          "relativeUrl": "/alex-campos/profil/spieler/1154932",
+          "ranks": {
+            "es": 2
+          }
+        },
+        {
+          "tmId": "342229",
+          "name": "Kylian Mbappé",
+          "normName": "kylian mbappe",
+          "marketValue": "€200.00M",
+          "relativeUrl": "/kylian-mbappe/profil/spieler/342229",
+          "ranks": {
+            "es": 3
+          }
+        },
+        {
+          "tmId": "281769",
+          "name": "Mario Hermoso",
+          "normName": "mario hermoso",
+          "marketValue": "€7.00M",
+          "relativeUrl": "/mario-hermoso/profil/spieler/281769",
+          "ranks": {
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "tmId": "861410",
+          "name": "Arda Güler",
+          "normName": "arda guler",
+          "marketValue": "€100.00M",
+          "relativeUrl": "/arda-gueler/profil/spieler/861410",
+          "ranks": {
+            "es": 5
+          }
+        },
+        {
+          "tmId": "363205",
+          "name": "Gabriel Jesus",
+          "normName": "gabriel jesus",
+          "marketValue": "€17.00M",
+          "relativeUrl": "/gabriel-jesus/profil/spieler/363205",
+          "ranks": {
+            "es": 6
+          }
+        },
+        {
+          "tmId": "475411",
+          "name": "Wesley Fofana",
+          "normName": "wesley fofana",
+          "marketValue": "€32.00M",
+          "relativeUrl": "/wesley-fofana/profil/spieler/475411",
+          "ranks": {
+            "es": 7
+          }
+        },
+        {
+          "tmId": "1341853",
+          "name": "Iván Buhajeruk",
+          "normName": "ivan buhajeruk",
+          "marketValue": null,
+          "relativeUrl": "/ivan-buhajeruk/profil/spieler/1341853",
+          "ranks": {
+            "es": 8
+          }
+        },
+        {
+          "tmId": "341263",
+          "name": "Adrián Dela",
+          "normName": "adrian dela",
+          "marketValue": "€5.00M",
+          "relativeUrl": "/adrian-dela/profil/spieler/341263",
+          "ranks": {
+            "es": 9
+          }
+        },
+        {
+          "tmId": "581678",
+          "name": "Jude Bellingham",
+          "normName": "jude bellingham",
+          "marketValue": "€160.00M",
+          "relativeUrl": "/jude-bellingham/profil/spieler/581678",
+          "ranks": {
+            "es": 10
+          }
+        },
+        {
+          "tmId": "805861",
+          "name": "Nabil Homssa",
+          "normName": "nabil homssa",
+          "marketValue": "€100.00K",
+          "relativeUrl": "/nabil-homssa/profil/spieler/805861",
+          "ranks": {
+            "fr": 1
+          }
+        },
+        {
+          "tmId": "5411",
+          "name": "Mickaël Pagis",
+          "normName": "mickael pagis",
+          "marketValue": "€0.00",
+          "relativeUrl": "/mickael-pagis/profil/spieler/5411",
+          "ranks": {
+            "fr": 3
+          }
+        },
+        {
+          "tmId": "18310",
+          "name": "Benoît Assou-Ekotto",
+          "normName": "benoit assou ekotto",
+          "marketValue": "€0.00",
+          "relativeUrl": "/benoit-assou-ekotto/profil/spieler/18310",
+          "ranks": {
+            "fr": 4
+          }
+        },
+        {
+          "tmId": "30261",
+          "name": "Arnaud Lunsi Diyakame",
+          "normName": "arnaud lunsi diyakame",
+          "marketValue": null,
+          "relativeUrl": "/arnaud-lunsi-diyakame/profil/spieler/30261",
+          "ranks": {
+            "fr": 5
+          }
+        },
+        {
+          "tmId": "1264376",
+          "name": "Kiyan Achahbar",
+          "normName": "kiyan achahbar",
+          "marketValue": "€500.00K",
+          "relativeUrl": "/kiyan-achahbar/profil/spieler/1264376",
+          "ranks": {
+            "fr": 6
+          }
+        },
+        {
+          "tmId": "1511310",
+          "name": "Yacine Abed",
+          "normName": "yacine abed",
+          "marketValue": null,
+          "relativeUrl": "/yacine-abed/profil/spieler/1511310",
+          "ranks": {
+            "fr": 7
+          }
+        },
+        {
+          "tmId": "190685",
+          "name": "Bouna Sarr",
+          "normName": "bouna sarr",
+          "marketValue": "€350.00K",
+          "relativeUrl": "/bouna-sarr/profil/spieler/190685",
+          "ranks": {
+            "fr": 8
+          }
+        },
+        {
+          "tmId": "1097139",
+          "name": "Ayyoub Bouaddi",
+          "normName": "ayyoub bouaddi",
+          "marketValue": "€90.00M",
+          "relativeUrl": "/ayyoub-bouaddi/profil/spieler/1097139",
+          "ranks": {
+            "fr": 9
+          }
+        },
+        {
+          "tmId": "1332008",
+          "name": "Lorenzo Mezzotero",
+          "normName": "lorenzo mezzotero",
+          "marketValue": "€400.00K",
+          "relativeUrl": "/lorenzo-mezzotero/profil/spieler/1332008",
+          "ranks": {
+            "it": 1
+          }
+        },
+        {
+          "tmId": "1188619",
+          "name": "Alessio Cacciamani",
+          "normName": "alessio cacciamani",
+          "marketValue": "€12.00M",
+          "relativeUrl": "/alessio-cacciamani/profil/spieler/1188619",
+          "ranks": {
+            "it": 2
+          }
+        },
+        {
+          "tmId": "931900",
+          "name": "Gustavo Varela",
+          "normName": "gustavo varela",
+          "marketValue": "€5.00M",
+          "relativeUrl": "/gustavo-varela/profil/spieler/931900",
+          "ranks": {
+            "it": 3
+          }
+        },
+        {
+          "tmId": "326029",
+          "name": "Donyell Malen",
+          "normName": "donyell malen",
+          "marketValue": "€55.00M",
+          "relativeUrl": "/donyell-malen/profil/spieler/326029",
+          "ranks": {
+            "it": 5,
+            "nl": 1
+          }
+        },
+        {
+          "tmId": "974488",
+          "name": "Pedro Morisco",
+          "normName": "pedro morisco",
+          "marketValue": "€9.00M",
+          "relativeUrl": "/pedro-morisco/profil/spieler/974488",
+          "ranks": {
+            "it": 6
+          }
+        },
+        {
+          "tmId": "668951",
+          "name": "Matías Soulé",
+          "normName": "matias soule",
+          "marketValue": "€35.00M",
+          "relativeUrl": "/matias-soule/profil/spieler/668951",
+          "ranks": {
+            "it": 7,
+            "nl": 9
+          }
+        },
+        {
+          "tmId": "532444",
+          "name": "Fotis Ioannidis",
+          "normName": "fotis ioannidis",
+          "marketValue": "€16.00M",
+          "relativeUrl": "/fotis-ioannidis/profil/spieler/532444",
+          "ranks": {
+            "it": 8
+          }
+        },
+        {
+          "tmId": "99923",
+          "name": "Simone Benedetti",
+          "normName": "simone benedetti",
+          "marketValue": "€0.00",
+          "relativeUrl": "/simone-benedetti/profil/spieler/99923",
+          "ranks": {
+            "it": 9
+          }
+        },
+        {
+          "tmId": "234248",
+          "name": "Simone Addessi",
+          "normName": "simone addessi",
+          "marketValue": "€50.00K",
+          "relativeUrl": "/simone-addessi/profil/spieler/234248",
+          "ranks": {
+            "it": 10
+          }
+        },
+        {
+          "tmId": "701057",
+          "name": "Rico Lewis",
+          "normName": "rico lewis",
+          "marketValue": "€25.00M",
+          "relativeUrl": "/rico-lewis/profil/spieler/701057",
+          "ranks": {
+            "nl": 2
+          }
+        },
+        {
+          "tmId": "614630",
+          "name": "Onur Demir",
+          "normName": "onur demir",
+          "marketValue": "€0.00",
+          "relativeUrl": "/onur-demir/profil/spieler/614630",
+          "ranks": {
+            "nl": 3
+          }
+        },
+        {
+          "tmId": "502065",
+          "name": "Aji Alese",
+          "normName": "aji alese",
+          "marketValue": "€700.00K",
+          "relativeUrl": "/aji-alese/profil/spieler/502065",
+          "ranks": {
+            "nl": 4
+          }
+        },
+        {
+          "tmId": "207929",
+          "name": "Dele Alli",
+          "normName": "dele alli",
+          "marketValue": "€500.00K",
+          "relativeUrl": "/dele-alli/profil/spieler/207929",
+          "ranks": {
+            "nl": 5
+          }
+        },
+        {
+          "tmId": "1242209",
+          "name": "Mohamed Abdalla",
+          "normName": "mohamed abdalla",
+          "marketValue": "€2.00M",
+          "relativeUrl": "/mohamed-abdalla/profil/spieler/1242209",
+          "ranks": {
+            "nl": 6
+          }
+        },
+        {
+          "tmId": "1300004",
+          "name": "Irian Boeschoten",
+          "normName": "irian boeschoten",
+          "marketValue": null,
+          "relativeUrl": "/irian-boeschoten/profil/spieler/1300004",
+          "ranks": {
+            "nl": 7
+          }
+        },
+        {
+          "tmId": "1260851",
+          "name": "Santiago Sandoval",
+          "normName": "santiago sandoval",
+          "marketValue": "€6.50M",
+          "relativeUrl": "/santiago-sandoval/profil/spieler/1260851",
+          "ranks": {
+            "nl": 8
+          }
+        },
+        {
+          "tmId": "31453",
+          "name": "Ruben Schaken",
+          "normName": "ruben schaken",
+          "marketValue": "€0.00",
+          "relativeUrl": "/ruben-schaken/profil/spieler/31453",
+          "ranks": {
+            "nl": 10
+          }
+        }
+      ]
+    },
     {
       "ts": 1795698062019,
       "source": "cloud",
@@ -21310,605 +21945,6 @@
           "relativeUrl": "/xavello-druiventak/profil/spieler/1177045",
           "ranks": {
             "nl": 10
-          }
-        }
-      ]
-    },
-    {
-      "ts": 1795572060565,
-      "source": "cloud",
-      "players": [
-        {
-          "tmId": "581678",
-          "name": "Jude Bellingham",
-          "normName": "jude bellingham",
-          "marketValue": "€160.00M",
-          "relativeUrl": "/jude-bellingham/profil/spieler/581678",
-          "ranks": {
-            "co.uk": 1,
-            "com": 1,
-            "us": 4,
-            "de": 5,
-            "es": 2,
-            "fr": 6
-          }
-        },
-        {
-          "tmId": "342229",
-          "name": "Kylian Mbappé",
-          "normName": "kylian mbappe",
-          "marketValue": "€200.00M",
-          "relativeUrl": "/kylian-mbappe/profil/spieler/342229",
-          "ranks": {
-            "co.uk": 2,
-            "com": 2,
-            "de": 6,
-            "es": 4
-          }
-        },
-        {
-          "tmId": "610442",
-          "name": "Rasmus Højlund",
-          "normName": "rasmus hojlund",
-          "marketValue": "€60.00M",
-          "relativeUrl": "/rasmus-hoejlund/profil/spieler/610442",
-          "ranks": {
-            "co.uk": 3,
-            "com": 3
-          }
-        },
-        {
-          "tmId": "861410",
-          "name": "Arda Güler",
-          "normName": "arda guler",
-          "marketValue": "€100.00M",
-          "relativeUrl": "/arda-gueler/profil/spieler/861410",
-          "ranks": {
-            "co.uk": 4,
-            "com": 4,
-            "de": 1,
-            "es": 3
-          }
-        },
-        {
-          "tmId": "8198",
-          "name": "Cristiano Ronaldo",
-          "normName": "cristiano ronaldo",
-          "marketValue": "€10.00M",
-          "relativeUrl": "/cristiano-ronaldo/profil/spieler/8198",
-          "ranks": {
-            "co.uk": 5,
-            "com": 5,
-            "de": 8
-          }
-        },
-        {
-          "tmId": "580195",
-          "name": "Jamal Musiala",
-          "normName": "jamal musiala",
-          "marketValue": "€80.00M",
-          "relativeUrl": "/jamal-musiala/profil/spieler/580195",
-          "ranks": {
-            "co.uk": 6,
-            "com": 6,
-            "de": 7,
-            "es": 1
-          }
-        },
-        {
-          "tmId": "27992",
-          "name": "Luka Modrić",
-          "normName": "luka modric",
-          "marketValue": "€3.50M",
-          "relativeUrl": "/luka-modric/profil/spieler/27992",
-          "ranks": {
-            "co.uk": 7,
-            "com": 7
-          }
-        },
-        {
-          "tmId": "200512",
-          "name": "Sadio Mané",
-          "normName": "sadio mane",
-          "marketValue": "€6.00M",
-          "relativeUrl": "/sadio-mane/profil/spieler/200512",
-          "ranks": {
-            "co.uk": 8,
-            "com": 8
-          }
-        },
-        {
-          "tmId": "188498",
-          "name": "Brayan Perea",
-          "normName": "brayan perea",
-          "marketValue": "€300.00K",
-          "relativeUrl": "/brayan-perea/profil/spieler/188498",
-          "ranks": {
-            "co.uk": 9,
-            "com": 9
-          }
-        },
-        {
-          "tmId": "948294",
-          "name": "Nico Paz",
-          "normName": "nico paz",
-          "marketValue": "€80.00M",
-          "relativeUrl": "/nico-paz/profil/spieler/948294",
-          "ranks": {
-            "co.uk": 10,
-            "com": 10
-          }
-        },
-        {
-          "tmId": "1185057",
-          "name": "Oscar Naasei",
-          "normName": "oscar naasei",
-          "marketValue": "€2.00M",
-          "relativeUrl": "/oscar-naasei/profil/spieler/1185057",
-          "ranks": {
-            "us": 1
-          }
-        },
-        {
-          "tmId": "796297",
-          "name": "Jobe Bellingham",
-          "normName": "jobe bellingham",
-          "marketValue": "€40.00M",
-          "relativeUrl": "/jobe-bellingham/profil/spieler/796297",
-          "ranks": {
-            "us": 2
-          }
-        },
-        {
-          "tmId": "339332",
-          "name": "Noa Lang",
-          "normName": "noa lang",
-          "marketValue": "€20.00M",
-          "relativeUrl": "/noa-lang/profil/spieler/339332",
-          "ranks": {
-            "us": 3
-          }
-        },
-        {
-          "tmId": "3455",
-          "name": "Zlatan Ibrahimović",
-          "normName": "zlatan ibrahimovic",
-          "marketValue": "€0.00",
-          "relativeUrl": "/zlatan-ibrahimovic/profil/spieler/3455",
-          "ranks": {
-            "us": 5
-          }
-        },
-        {
-          "tmId": "1145504",
-          "name": "Aarón Anselmino",
-          "normName": "aaron anselmino",
-          "marketValue": "€10.00M",
-          "relativeUrl": "/aaron-anselmino/profil/spieler/1145504",
-          "ranks": {
-            "us": 6
-          }
-        },
-        {
-          "tmId": "1043646",
-          "name": "Christian Ordóñez",
-          "normName": "christian ordonez",
-          "marketValue": "€6.50M",
-          "relativeUrl": "/christian-ordonez/profil/spieler/1043646",
-          "ranks": {
-            "us": 7
-          }
-        },
-        {
-          "tmId": "491693",
-          "name": "Nehuén Pérez",
-          "normName": "nehuen perez",
-          "marketValue": "€10.00M",
-          "relativeUrl": "/nehuen-perez/profil/spieler/491693",
-          "ranks": {
-            "us": 8
-          }
-        },
-        {
-          "tmId": "416090",
-          "name": "Julián Quiñones",
-          "normName": "julian quinones",
-          "marketValue": "€14.00M",
-          "relativeUrl": "/julian-quinones/profil/spieler/416090",
-          "ranks": {
-            "us": 9
-          }
-        },
-        {
-          "tmId": "1234988",
-          "name": "Julián Vignolo",
-          "normName": "julian vignolo",
-          "marketValue": "€1.50M",
-          "relativeUrl": "/julian-vignolo/profil/spieler/1234988",
-          "ranks": {
-            "us": 10
-          }
-        },
-        {
-          "tmId": "1075577",
-          "name": "Joane Gadou",
-          "normName": "joane gadou",
-          "marketValue": "€28.00M",
-          "relativeUrl": "/joane-gadou/profil/spieler/1075577",
-          "ranks": {
-            "de": 2,
-            "it": 3
-          }
-        },
-        {
-          "tmId": "1263",
-          "name": "Márcio Amoroso",
-          "normName": "marcio amoroso",
-          "marketValue": "€0.00",
-          "relativeUrl": "/marcio-amoroso/profil/spieler/1263",
-          "ranks": {
-            "de": 3
-          }
-        },
-        {
-          "tmId": "283223",
-          "name": "Emre Mor",
-          "normName": "emre mor",
-          "marketValue": "€0.00",
-          "relativeUrl": "/emre-mor/profil/spieler/283223",
-          "ranks": {
-            "de": 4
-          }
-        },
-        {
-          "tmId": "711999",
-          "name": "Lesley Ugochukwu",
-          "normName": "lesley ugochukwu",
-          "marketValue": "€22.00M",
-          "relativeUrl": "/lesley-ugochukwu/profil/spieler/711999",
-          "ranks": {
-            "de": 9
-          }
-        },
-        {
-          "tmId": "578392",
-          "name": "Maximilian Beier",
-          "normName": "maximilian beier",
-          "marketValue": "€35.00M",
-          "relativeUrl": "/maximilian-beier/profil/spieler/578392",
-          "ranks": {
-            "de": 10
-          }
-        },
-        {
-          "tmId": "738474",
-          "name": "David Kalokoh",
-          "normName": "david kalokoh",
-          "marketValue": "€125.00K",
-          "relativeUrl": "/david-kalokoh/profil/spieler/738474",
-          "ranks": {
-            "nl": 1
-          }
-        },
-        {
-          "tmId": "931900",
-          "name": "Gustavo Varela",
-          "normName": "gustavo varela",
-          "marketValue": "€5.00M",
-          "relativeUrl": "/gustavo-varela/profil/spieler/931900",
-          "ranks": {
-            "nl": 2,
-            "it": 2
-          }
-        },
-        {
-          "tmId": "552955",
-          "name": "Santiago Gimenez",
-          "normName": "santiago gimenez",
-          "marketValue": "€18.00M",
-          "relativeUrl": "/santiago-gimenez/profil/spieler/552955",
-          "ranks": {
-            "nl": 3
-          }
-        },
-        {
-          "tmId": "813437",
-          "name": "Isaac Babadi",
-          "normName": "isaac babadi",
-          "marketValue": "€1.50M",
-          "relativeUrl": "/isaac-babadi/profil/spieler/813437",
-          "ranks": {
-            "nl": 4
-          }
-        },
-        {
-          "tmId": "269677",
-          "name": "Vladyslav Krayev",
-          "normName": "vladyslav krayev",
-          "marketValue": "€0.00",
-          "relativeUrl": "/vladyslav-krayev/profil/spieler/269677",
-          "ranks": {
-            "nl": 5
-          }
-        },
-        {
-          "tmId": "581670",
-          "name": "Louie Barry",
-          "normName": "louie barry",
-          "marketValue": "€2.50M",
-          "relativeUrl": "/louie-barry/profil/spieler/581670",
-          "ranks": {
-            "nl": 6
-          }
-        },
-        {
-          "tmId": "720799",
-          "name": "Julian Rijkhoff",
-          "normName": "julian rijkhoff",
-          "marketValue": "€750.00K",
-          "relativeUrl": "/julian-rijkhoff/profil/spieler/720799",
-          "ranks": {
-            "nl": 7
-          }
-        },
-        {
-          "tmId": "3807",
-          "name": "Richard Dunne",
-          "normName": "richard dunne",
-          "marketValue": "€0.00",
-          "relativeUrl": "/richard-dunne/profil/spieler/3807",
-          "ranks": {
-            "nl": 8
-          }
-        },
-        {
-          "tmId": "52769",
-          "name": "Willian",
-          "normName": "willian",
-          "marketValue": "€300.00K",
-          "relativeUrl": "/willian/profil/spieler/52769",
-          "ranks": {
-            "nl": 9
-          }
-        },
-        {
-          "tmId": "7940",
-          "name": "Ronald Koeman",
-          "normName": "ronald koeman",
-          "marketValue": null,
-          "relativeUrl": "/ronald-koeman/profil/spieler/7940",
-          "ranks": {
-            "nl": 10
-          }
-        },
-        {
-          "tmId": "28003",
-          "name": "Lionel Messi",
-          "normName": "lionel messi",
-          "marketValue": "€15.00M",
-          "relativeUrl": "/lionel-messi/profil/spieler/28003",
-          "ranks": {
-            "es": 5
-          }
-        },
-        {
-          "tmId": "832340",
-          "name": "Robert Morales",
-          "normName": "robert morales",
-          "marketValue": "€7.00M",
-          "relativeUrl": "/robert-morales/profil/spieler/832340",
-          "ranks": {
-            "es": 6
-          }
-        },
-        {
-          "tmId": "426281",
-          "name": "Josh Earl",
-          "normName": "josh earl",
-          "marketValue": "€600.00K",
-          "relativeUrl": "/josh-earl/profil/spieler/426281",
-          "ranks": {
-            "es": 7
-          }
-        },
-        {
-          "tmId": "4276",
-          "name": "Carlos Tévez",
-          "normName": "carlos tevez",
-          "marketValue": "€0.00",
-          "relativeUrl": "/carlos-tevez/profil/spieler/4276",
-          "ranks": {
-            "es": 8
-          }
-        },
-        {
-          "tmId": "628806",
-          "name": "Carlos Harvey",
-          "normName": "carlos harvey",
-          "marketValue": "€600.00K",
-          "relativeUrl": "/carlos-harvey/profil/spieler/628806",
-          "ranks": {
-            "es": 9
-          }
-        },
-        {
-          "tmId": "42460",
-          "name": "Ivan Perisic",
-          "normName": "ivan perisic",
-          "marketValue": "€1.20M",
-          "relativeUrl": "/ivan-perisic/profil/spieler/42460",
-          "ranks": {
-            "es": 10
-          }
-        },
-        {
-          "tmId": "1511310",
-          "name": "Yacine Abed",
-          "normName": "yacine abed",
-          "marketValue": null,
-          "relativeUrl": "/yacine-abed/profil/spieler/1511310",
-          "ranks": {
-            "fr": 1
-          }
-        },
-        {
-          "tmId": "30261",
-          "name": "Arnaud Lunsi Diyakame",
-          "normName": "arnaud lunsi diyakame",
-          "marketValue": null,
-          "relativeUrl": "/arnaud-lunsi-diyakame/profil/spieler/30261",
-          "ranks": {
-            "fr": 2
-          }
-        },
-        {
-          "tmId": "43970",
-          "name": "Steve Savidan",
-          "normName": "steve savidan",
-          "marketValue": "€0.00",
-          "relativeUrl": "/steve-savidan/profil/spieler/43970",
-          "ranks": {
-            "fr": 3
-          }
-        },
-        {
-          "tmId": "498687",
-          "name": "Yeison Guzmán",
-          "normName": "yeison guzman",
-          "marketValue": "€2.80M",
-          "relativeUrl": "/yeison-guzman/profil/spieler/498687",
-          "ranks": {
-            "fr": 4
-          }
-        },
-        {
-          "tmId": "1117092",
-          "name": "Joseph Kalulu",
-          "normName": "joseph kalulu",
-          "marketValue": "€2.00M",
-          "relativeUrl": "/joseph-kalulu/profil/spieler/1117092",
-          "ranks": {
-            "fr": 5
-          }
-        },
-        {
-          "tmId": "174915",
-          "name": "Islam Slimani",
-          "normName": "islam slimani",
-          "marketValue": "€200.00K",
-          "relativeUrl": "/islam-slimani/profil/spieler/174915",
-          "ranks": {
-            "fr": 7
-          }
-        },
-        {
-          "tmId": "1010044",
-          "name": "Dylan Ourega",
-          "normName": "dylan ourega",
-          "marketValue": "€2.00M",
-          "relativeUrl": "/dylan-ourega/profil/spieler/1010044",
-          "ranks": {
-            "fr": 8
-          }
-        },
-        {
-          "tmId": "894914",
-          "name": "Antonio Nusa",
-          "normName": "antonio nusa",
-          "marketValue": "€45.00M",
-          "relativeUrl": "/antonio-nusa/profil/spieler/894914",
-          "ranks": {
-            "fr": 9
-          }
-        },
-        {
-          "tmId": "1379386",
-          "name": "Rayan Zidane",
-          "normName": "rayan zidane",
-          "marketValue": null,
-          "relativeUrl": "/rayan-zidane/profil/spieler/1379386",
-          "ranks": {
-            "fr": 10
-          }
-        },
-        {
-          "tmId": "457673",
-          "name": "Gabriel Strefezza",
-          "normName": "gabriel strefezza",
-          "marketValue": "€5.00M",
-          "relativeUrl": "/gabriel-strefezza/profil/spieler/457673",
-          "ranks": {
-            "it": 1
-          }
-        },
-        {
-          "tmId": "326029",
-          "name": "Donyell Malen",
-          "normName": "donyell malen",
-          "marketValue": "€55.00M",
-          "relativeUrl": "/donyell-malen/profil/spieler/326029",
-          "ranks": {
-            "it": 4
-          }
-        },
-        {
-          "tmId": "281989",
-          "name": "Luis Milla",
-          "normName": "luis milla",
-          "marketValue": "€8.00M",
-          "relativeUrl": "/luis-milla/profil/spieler/281989",
-          "ranks": {
-            "it": 5
-          }
-        },
-        {
-          "tmId": "908760",
-          "name": "Cristian Shpendi",
-          "normName": "cristian shpendi",
-          "marketValue": "€5.00M",
-          "relativeUrl": "/cristian-shpendi/profil/spieler/908760",
-          "ranks": {
-            "it": 6
-          }
-        },
-        {
-          "tmId": "1136279",
-          "name": "Valeri Vladimirov",
-          "normName": "valeri vladimirov",
-          "marketValue": "€800.00K",
-          "relativeUrl": "/valeri-vladimirov/profil/spieler/1136279",
-          "ranks": {
-            "it": 7
-          }
-        },
-        {
-          "tmId": "964087",
-          "name": "Alphadjo Cisse",
-          "normName": "alphadjo cisse",
-          "marketValue": "€20.00M",
-          "relativeUrl": "/alphadjo-cisse/profil/spieler/964087",
-          "ranks": {
-            "it": 8
-          }
-        },
-        {
-          "tmId": "538918",
-          "name": "Sebastiano Esposito",
-          "normName": "sebastiano esposito",
-          "marketValue": "€15.00M",
-          "relativeUrl": "/sebastiano-esposito/profil/spieler/538918",
-          "ranks": {
-            "it": 9
-          }
-        },
-        {
-          "tmId": "240289",
-          "name": "Marco Ferrara",
-          "normName": "marco ferrara",
-          "marketValue": "€0.00",
-          "relativeUrl": "/marco-ferrara/profil/spieler/240289",
-          "ranks": {
-            "it": 10
           }
         }
       ]
